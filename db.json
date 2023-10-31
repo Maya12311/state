@@ -1,4 +1,4 @@
-[{
+[
     "products": [
         {
             "id": 1001,
@@ -29,5 +29,5 @@
             "productBrand":"Samsung"
         }
     ]
-}
+
 ]
