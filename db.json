@@ -11,14 +11,14 @@
             "id": 1002,
             "productName":"Nokia 8",
             "productPrice":24499,
-            "productImg":"nokiasmartphone.png",
+            "productImg":"https://assets.bueroshop24.de/ugsshoppictures/img/18/20/Zoom_m2341745.jpg/l/nokia-g22-dual-sim-smartphone-blau-64-gb-904237",
             "productBrand":"Nokia"
         },
         {
             "id": 1003,
             "productName":"Redmi Note 8 Pro",
             "productPrice":39999,
-            "productImg":"redminote8.PNG",
+            "productImg":"https://d1o0zx25fn5p70.cloudfront.net/cm31gynpBpwODfFlNcH0pKryKBE=/fit-in/350x350/noupscale/rebuy-akeneo/f/0/2/1/f021731a74ca9c0b39ccac4da00c6951ffff5c81_frontcover_electronics_11374455.jpeg?t=1698307342",
             "productBrand":"Xiaomi"
         },
         {
